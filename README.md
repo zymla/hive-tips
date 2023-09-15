@@ -3,7 +3,7 @@
 ## Variables
 ### List all
 `set`
-### Set one:
+### Set one
 `set hive.resultset.use.unique.column.names=false`
 
 ### Get value
